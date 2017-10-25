@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/HashMap.hpp
+functional
+-
+string
+-
+iostream
+-
+
+/home/ics45c/projects/hashProject/app/inputHandle.cpp
+inputHandle.hpp
+/home/ics45c/projects/hashProject/app/inputHandle.hpp
+
+/home/ics45c/projects/hashProject/app/inputHandle.hpp
+functional
+-
+iostream
+-
+string
+-
+HashMap.hpp
+-
+

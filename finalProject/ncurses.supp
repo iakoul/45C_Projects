@@ -1,0 +1,26 @@
+{
+   <reachable_ncurses_initscr>
+   Memcheck:Leak
+   match-leak-kinds: reachable
+   ...
+   fun:initscr
+   ...
+}
+
+{
+   <reachable_ncurses_keypad>
+   Memcheck:Leak
+   match-leak-kinds: reachable
+   ...
+   fun:keypad
+   ...
+}
+
+{
+   <reachable_ncurses_refresh>
+   Memcheck:Leak
+   match-leak-kinds: reachable
+   ...
+   fun:refresh
+   ...
+}

@@ -1,0 +1,2 @@
+/home/ics45c/projects/hashProject/out/CMakeFiles/a.out.app.dir
+/home/ics45c/projects/hashProject/out/CMakeFiles/a.out.gtest.dir
